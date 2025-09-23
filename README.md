@@ -1,10 +1,12 @@
-# 🏥 MediCenter Clone
+<h1 align="center">🏥 MediCenter Clone</h1>
 
-![Preview do Projeto](assets/preview.png)
+<p align="center">
+  <img src="assets/preview.png" alt="Preview do Projeto" width="600"/>
+</p>
 
-## 📌 Sobre o Projeto
-Este projeto é um clone responsivo do template **MediCenter**, desenvolvido com **HTML5** e **CSS3**.  
-O objetivo é praticar conceitos de **responsividade**, **flexbox** e **grid layout**, criando uma landing page moderna e funcional para clínicas e hospitais.
+<p align="center">
+  Clone responsivo do template <b>MediCenter</b>, desenvolvido com <b>HTML5</b> e <b>CSS3</b>.
+</p>
 
 ---
 
@@ -18,11 +20,13 @@ O objetivo é praticar conceitos de **responsividade**, **flexbox** e **grid lay
 
 ## 📷 Screenshots
 
-### 💻 Desktop
-![Versão Desktop](assets/desktop.png)
+<p align="center">
+  <img src="assets/desktop.png" alt="Versão Desktop" width="700"/>
+</p>
 
-### 📱 Mobile
-![Versão Mobile](assets/mobile.png)
+<p align="center">
+  <img src="assets/mobile.png" alt="Versão Mobile" width="300"/>
+</p>
 
 ---
 
