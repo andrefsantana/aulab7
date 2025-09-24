@@ -26,4 +26,4 @@
 ---
 
 ## 🔗 Link para acesso
-[Acessar projeto](https://modernhost.com.br/curso/html/medicenter/)
+<a href="https://modernhost.com.br/curso/html/medicenter" target="_blank">Acessar projeto</a>
