@@ -1,4 +1,4 @@
-<h1 align="center">🏥 Projeto MediCenter</h1>
+<h1 align="center">🏥 Projeto Teste Aula</h1>
 
 <p align="center">
   Reprodução do template <b>MediCenter</b>, um estudo de <b>Flexbox</b> do curso <b>B7Web</b>. Desenvolvido com <b>HTML5</b>, <b>CSS</b> e <b>JavaScript</b>.
