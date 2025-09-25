@@ -17,7 +17,7 @@
 
 - Desktop
   <br>
-  <img src="https://github.com/user-attachments/assets/bd42388a-3b26-42e7-a77e-8d2b28e8750c" alt="Versão Desktop" width="700"/>
+  <img src="https://github.com/user-attachments/assets/522ef215-6f6c-403e-a4f9-e13a8d6a7d48" alt="Versão Desktop" width="700"/>
 
 - Mobile
   <br>
